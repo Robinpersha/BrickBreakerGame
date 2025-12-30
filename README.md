@@ -1,6 +1,6 @@
 
 ------------------------------------------------------------------------
-BRICK BREAKER GAME — COURSEWORK PROJECT
+BRICK BREAKER GAME
 Engine: Java (BlueJ)
 Architecture: Object-Oriented, Java GUI (Swing + AWT)
 
